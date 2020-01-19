@@ -27,10 +27,13 @@ The database used for this project is public available and has been widely cited
 
 ![](https://xtian17.github.io/images/HR_wrist_PPG/dataset2.png)
 
-
+### Metrics
 To evaluate the performance of the proposed system and to compare with the state-of-art, average absolute error(AAE) is used.
-![](https://xtian17.github.io/images/HR_wrist_PPG/HR_wrist_PPG.png)
 
+
+### Results
+Here is an example of HR tracking result after MA removal for the input PPG siganl.
+![](https://xtian17.github.io/images/HR_wrist_PPG/HR_wrist_PPG.png)
 
 
 
