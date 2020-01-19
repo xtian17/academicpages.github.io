@@ -23,7 +23,7 @@ Education
 + Ph.D in Electrical and Computer Engineering, University of Maryland, College Park, 2022 (expected)
 - Advisor: [Professor Min Wu](https://user.eng.umd.edu/~minwu/)
 - Courses: 
-** CMSC726: Machine Learning
+* CMSC726: Machine Learning
 * ENEE633: Statistical Pattern Recognition
 * ENEE620: Random Processing in Communication and Control
 * ENEE621: Estimation and Detection Theory
