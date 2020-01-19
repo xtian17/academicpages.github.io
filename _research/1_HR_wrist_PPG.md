@@ -23,7 +23,7 @@ In this project, NLMS and RLS adaptive filters are implemented for motion artifa
 The database used for this project is public available and has been widely cited since Signal Processing Cup 2015. In this dataset, two-channel PPG signal, three-axis acceleration signal and one-channel ECG signal with 5-min duration are simultaneously recorded from 12 healthy male subjects aged from 18 to 35. Those subjects were running starting from 0.5 minutes to the end of the whole duration with speed of 8-15km/h. For each subject, the PPG signal is recorded from wrist by two pulse oximeters with green LEDs(wavelength: 515nm). Their distance (from center to center) is 2 cm. The acceleration signal is also recorded simultaneously from wrist by a three-axis accelerometer. Both the pulse oximeter and the accelerometer are embedded in a wristband, which is comfortably worn. The ECG signal is recorded simultaneously from the chest using wet ECG sensors. All signals are sampled at 125 Hz.
 
 To evaluate the performance of the proposed system and to compare with the state-of-art, average absolute error(AAE) is used.
-
+![](https://xtian17.github.io/images/HR_wrist_PPG/HR_wrist_PPG.png)
 
 
 
