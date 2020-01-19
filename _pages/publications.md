@@ -15,7 +15,7 @@ author_profile: true
 1. Q. Zhu, **X. Tian**, C.-W. Wong and M. Wu, "Learning Your Heart Actions From Pulse: ECG Waveform Reconstruction From PPG", under preparation for journal publication. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/815258v1)
 
 ## Conference
-1. Q. Zhu, **X. Tian**, C-W. Wong, and M. Wu: "ECG Reconstruction via PPG: A Pilot Study," IEEE International Conf. on Biomedical and Health Informatics (BHI'19), Chicago, IL, May 2019. [[43/394=10.9% acceptance rate for oral-presentation of regular paper]] [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8834612) [[arXiv]](https://arxiv.org/abs/1904.10481) [[Slides]](https://sigport.org/documents/ecg-reconstruction-ppg-pilot-study)
+1. Q. Zhu, **X. Tian**, C-W. Wong, and M. Wu: "ECG Reconstruction via PPG: A Pilot Study," IEEE International Conf. on Biomedical and Health Informatics (BHI'19), Chicago, IL, May 2019. [43/394=10.9% acceptance rate for oral-presentation of regular paper] [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8834612) [[arXiv]](https://arxiv.org/abs/1904.10481) [[Slides]](https://sigport.org/documents/ecg-reconstruction-ppg-pilot-study)
 
 2. **X. Tian**, Q. Zhu, Y. Li, and M. Wu, "Cross-domain Joint Dictionary Learning fro ECG Reconstruction From PPG", submitted for conference publication.
 
