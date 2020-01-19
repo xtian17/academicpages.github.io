@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here is my full [CV]()
+Here is my full [CV](https://xtian17.github.io/files/CV_Xin_Tian.pdf)
 
 Education
 ======
