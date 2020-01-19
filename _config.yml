@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :
-  email            :
+  email            : xtian17@umd.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "https://xtian17.github.io/files/CV_Xin_Tian.pdf"
 
 
 # Reading Files
