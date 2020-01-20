@@ -17,7 +17,7 @@ News
 
 * I am selected into the [Future Faculty Program](https://eng.umd.edu/future-faculty-program) 2020 of the Clark School of Engineering, University of Maryland.
 
-* I am selected as a Teaching Assistant Training and Development (TATD) Fellow in Electrical and Computer Engineering Department, University of Maryland for the 2019-2020 academic year. 
+* I am selected as a Teaching Assistant Training and Development (TATD) Fellow in Electrical and Computer Engineering Department, University of Maryland for the 2018-2019 and 2019-2020 academic years. 
 
 
 
