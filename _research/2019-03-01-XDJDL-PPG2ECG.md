@@ -4,6 +4,7 @@ collection: research
 permalink: /research/2019-03-01-XDJDL-PPG2ECG
 date: 2019-03-01
 venue: "ECE, UMD"
+location: "Collge Park, MD"
 
 ---
 
