@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
-
 Here is my full [CV](https://xtian17.github.io/files/CV_Xin_Tian.pdf)
 
 * B.S. in Optoelectronic Information Science and Engineering, Huazhong University of Science and Technology (HUST), 2017
