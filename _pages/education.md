@@ -13,7 +13,7 @@ Here is my full [CV](https://xtian17.github.io/files/CV_Xin_Tian.pdf)
 
 <img src="http://xtian17.github.io/images/Hustseals.png" width="350">
 
-* B.S. in Optoelectronic Information Science and Engineering, Huazhong University of Science and Technology (HUST), 2017
+* B.S. in Optoelectronic Information Science and Engineering, Huazhong University of Science and Technology, 2017
   * GPA: 91.3/100, marjor GPA: 93.3/100 Rank: 12/348
   * Awards: 
        * National Scholarship (2014-2015)
