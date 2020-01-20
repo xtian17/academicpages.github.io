@@ -6,8 +6,8 @@ excerpt: 'In this project, adaptive filters techniques combined with a robust tr
 date: 2018-06-01
 venue: "ECE, UMD"
 location: "Collge Park, MD"
-
 ---
+
 <img src="https://xtian17.github.io/images/HR_wrist_PPG/HR_wrist_PPG.png" width="560">
 
 ## Introduction
