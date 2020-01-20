@@ -17,6 +17,8 @@ The reconstruction capability of the proposed method may enable low-cost ECG scr
 
 ## Framework
 
+![](https://xtian17.github.io/images/DCT_PPG2ECG/ppg2ecg_sysdiag.jpg)
+
 
 ## Related Publications
 
