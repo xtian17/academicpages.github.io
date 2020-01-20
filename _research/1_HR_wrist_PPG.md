@@ -25,7 +25,7 @@ The database used for this project is public available and has been widely cited
 
 ### Dataset 2: MAST dataset
 
-![](https://xtian17.github.io/images/HR_wrist_PPG/dataset2.png)
+![](https://xtian17.github.io/images/HR_wrist_PPG/dataset2.png =250x)
 
 ### Metrics
 To evaluate the performance of the proposed system and to compare with the state-of-art, average absolute error(AAE) is used.
