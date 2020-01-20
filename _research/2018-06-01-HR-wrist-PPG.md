@@ -13,5 +13,5 @@ Photoplethysmography(PPG) has attracted great interest these years with the fast
 
 ## Results
 Here is an example of HR tracking result after MA removal for the input PPG siganl.
-<img src="https://xtian17.github.io/images/HR_wrist_PPG/HR_wrist_PPG.png" width="700">
+<img src="https://xtian17.github.io/images/HR_wrist_PPG/HR_wrist_PPG.png" width="800">
 
