@@ -2,7 +2,7 @@
 title: "Motion artifacts removal from photoplethysmogram(PPG) signal for robust heart rate (HR) tracking"
 collection: research
 permalink: /research/2018-06-01-HR-wrist-PPG
-excerpt: ''
+excerpt: 'In this project, adaptive filters techniques combined with a robust tracking algorithm are implemented for accurate HR estimation from wrist type PPG.'
 date: 2018-06-01
 venue: ''
 paperurl: ''
