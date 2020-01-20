@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-Here is my full [CV](https://xtian17.github.io/files/CV_Xin_Tian.pdf)
-
 Education
 ======
+
+Here is my full [CV](https://xtian17.github.io/files/CV_Xin_Tian.pdf)
+
 * B.S. in Optoelectronic Information Science and Engineering, Huazhong University of Science and Technology (HUST), 2017
   * GPA: 91.3/100, marjor GPA: 93.3/100 Rank: 12/348
   * Awards: 
