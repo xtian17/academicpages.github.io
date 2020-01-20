@@ -9,6 +9,7 @@ redirect_from:
 
 Here is my full [CV](https://xtian17.github.io/files/CV_Xin_Tian.pdf)
 
+---
 
 <img src="http://xtian17.github.io/images/Hustseals.png" width="350">
 
