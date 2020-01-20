@@ -1,5 +1,5 @@
 ---
-title: "A Cross-Domain Joint Dictionary Learning Approach for ECG reconstruction from PPG"
+title: "A Cross-Domain Joint Dictionary Learning Approach for ECG Reconstruction from PPG"
 collection: research
 permalink: /research/2019-03-01-XDJDL-PPG2ECG
 date: 2019-03-01
