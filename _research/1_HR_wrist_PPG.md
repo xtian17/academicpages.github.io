@@ -11,12 +11,7 @@ citation: ''
 
 ## Introduction
 
-Photoplethysmography(PPG) has attracted great interest these years with the fast development of wearable devices and semiconductors. PPG is obtained by pulse oximeter embedded in wearable devices, which emits light from light emission diode(LED) to the skin along with the underlying vessels and records the transmitted or reflected light intensity by photodetectors. Since the light intensity received by detectors is correlated with the blood volume in the vessel which fluctuates with the cardiac cycle, PPG has its widespread applications in extracting cardiac information, including heart rate(HR), blood oxygen saturation, respiration rate and more.
-However, motion artifact(MA) created during physical fitness exercise is the one of the most problematic issues in applying PPG. MA contaminated PPG signal is distorted and even rendered to extract no useful HR signal for health analysis.
-
-## Method
-
-In this project, NLMS and RLS adaptive filters are implemented for motion artifacts removal from PPG signal in parallel and series modes. The steps and frameworks are basically referring to the two highly cited works. As for the HR tracking part, in contrast to the previous systems where the proposed HR tracking method depends on a set of heuristic rules, thresholds and searching ranges to be tuned, here we propose the peak selection problem as a most probable path selection task inspired by Viterbi algorithm. The HR tracking method using the idea of finding the most likely path is designated for higher performance of HR estimation accuracy. Also, adaptive searching range based on SNR is included in the tracking algorithm.
+Photoplethysmography(PPG) has attracted great interest these years with the fast development of wearable devices and semiconductors. PPG is obtained by pulse oximeter embedded in wearable devices, which emits light from light emission diode(LED) to the skin along with the underlying vessels and records the transmitted or reflected light intensity by photodetectors. Since the light intensity received by detectors is correlated with the blood volume in the vessel which fluctuates with the cardiac cycle, PPG has its widespread applications in extracting cardiac information, including heart rate(HR), blood oxygen saturation, respiration rate and more. However, motion artifact(MA) created during physical fitness exercise is the one of the most problematic issues in applying PPG. MA contaminated PPG signal is distorted and even rendered to extract no useful HR signal for health analysis. In this project, adaptive filters techniques combined with a robust tracking algorithm are implemented for accurate HR estimation from wrist type PPG. 
 
 ## Experimental Result
 
@@ -25,8 +20,7 @@ The database used for this project is public available and has been widely cited
 
 ### Dataset 2: MAST dataset
 
-![data|small](https://xtian17.github.io/images/HR_wrist_PPG/dataset2.png)
-
+This dataset contains 3 femals and 2 males with different types of exercise, including walking, running, .
 ### Metrics
 To evaluate the performance of the proposed system and to compare with the state-of-art, average absolute error(AAE) is used.
 
