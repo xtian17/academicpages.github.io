@@ -4,9 +4,6 @@ collection: research
 permalink: /research/2018-06-01-HR-wrist-PPG
 excerpt: 'In this project, adaptive filters techniques combined with a robust tracking algorithm are implemented for accurate HR estimation from wrist type PPG.'
 date: 2018-06-01
-venue: ''
-paperurl: ''
-citation: ''
 ---
 
 ## Introduction
