@@ -3,7 +3,7 @@ title: "Motion artifacts removal from photoplethysmogram(PPG) signal for robust 
 collection: research
 permalink: /research/2018-HR_wrist_PPG.md
 excerpt: ''
-date: 
+date: from 2018-06
 venue: ''
 paperurl: ''
 citation: ''
