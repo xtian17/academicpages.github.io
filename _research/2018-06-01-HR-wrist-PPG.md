@@ -1,7 +1,7 @@
 ---
 title: "Motion artifacts removal from photoplethysmogram(PPG) signal for robust heart rate (HR) tracking"
 collection: research
-permalink: /research/2018-HR_wrist_PPG.md
+permalink: /research/2018-06-01-HR_wrist_PPG.md
 excerpt: ''
 date: from 2018-06
 venue: ''
