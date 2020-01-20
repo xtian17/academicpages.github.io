@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Xin Tian's home on the web! I am a Ph.D. student in electrical and computer engineering department, University of Maryland, college park. I am advised by [prof. Min Wu](https://user.eng.umd.edu/~minwu/). My research interest is a synergy of signal processing, data analysis and machine learning, with applications in healthcare, wearable devices and more.  
+Hello! This is Xin Tian's home on the web! I am a Ph.D. student in Electrical and Computer Engineering Department, University of Maryland, College Park. I am advised by [prof. Min Wu](https://user.eng.umd.edu/~minwu/). My research interest is a synergy of signal processing, data analysis and machine learning, with applications in healthcare, wearable devices and more.  
 
 News
 ======
