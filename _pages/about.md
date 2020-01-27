@@ -12,6 +12,7 @@ Hello! This is Xin Tian's home on the web! I am a Ph.D. student in Electrical an
 
 News
 ======
+* Our paper “Cross-domain Joint Dictionary Learning for ECG Reconstruction from PPG” with Qiang Zhu, Yuenan Li and Min Wu is accepted by International Conference on Acoustics, Speech, and Signal Processing (ICASSP'2020).
 
 * Our paper ["ECG Reconstruction via PPG: A Pilot Study"](https://arxiv.org/abs/1904.10481) with Qiang Zhu, Chau-Wai Wong and Min Wu was accepted at International Conference on Biomedical and Health Informatics [(BHI'19)](https://www.bhi-bsn-2019.org/bhi/) for oral-presentation of regular paper (43/394=10.9% acceptance rate).
 
