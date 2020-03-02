@@ -16,7 +16,7 @@ My duties included: making solutions for assignments, grading homeworks, and hol
 ### ENEE 627: Information Theory
 
 [ENEE 627](https://ece.umd.edu/course-schedule/course/ENEE627) is a graduate-level course in the UMD ECE department.
-This course introduces the information measures and their properties; entropy, relative entropy and mutual information. In addtition, information source models, lossless data compression, Typical sequences, asymptotic equipartition property, lossy source coding, and discrete memoryless channels are also included.
+This course introduces the information measures and their properties; entropy, relative entropy and mutual information. In addtition, information source models, lossless data compression, typical sequences, asymptotic equipartition property, lossy source coding, and discrete memoryless channels are also included.
 My duties included: grading homeworks, and holding weekly office hours.
 
 ### ENEE 489I: Solar Energy Conversion
