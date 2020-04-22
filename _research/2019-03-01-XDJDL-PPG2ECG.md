@@ -5,4 +5,8 @@ permalink: /research/2019-03-01-XDJDL-PPG2ECG
 date: 2019-03-01
 ---
 
-> Under construction
+Please see the Youtube video for the motivation of our work.
+https://youtu.be/YXkSaaSuyq0
+For further technical explanation of the framework and results, please find the following Youtube video.
+https://youtu.be/3K5BkITTU-c
+For further technical details, please find our paper when available.
