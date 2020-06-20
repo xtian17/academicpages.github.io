@@ -11,12 +11,12 @@ An emerging research direction considers the inverse problem of inferring electr
 
 ### A Three-Minute engaging introduction
 Please see the [Three-Minute Thesis Speech](https://youtu.be/F8fYKDbBZ5Q) for the motivation of our work.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F8fYKDbBZ5Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Technical paper and conference talk
 For further technical explanation of the framework and results, please find the following [ICASSP conference talk](https://youtu.be/3K5BkITTU-c).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3K5BkITTU-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 For further technical details, please find [our paper](https://ieeexplore.ieee.org/document/9054242).
 
