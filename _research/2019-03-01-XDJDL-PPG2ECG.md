@@ -15,6 +15,8 @@ Please see the [Three-Minute Thesis Speech](https://youtu.be/F8fYKDbBZ5Q) for th
 ### Technical paper and conference talk
 For further technical explanation of the framework and results, please find the following [ICASSP conference talk](https://youtu.be/3K5BkITTU-c).
 
+<iframe width="560" height="315" src="https://youtu.be/3K5BkITTU-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 For further technical details, please find [our paper](https://ieeexplore.ieee.org/document/9054242).
 
 You can also find the slides [here](https://sigport.org/documents/cross-domain-joint-dictionary-learning-ecg-reconstruction-ppg).
