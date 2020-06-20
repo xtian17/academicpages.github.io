@@ -12,7 +12,7 @@ Hello! This is Xin Tian's home on the web! I am a Ph.D. student in Electrical an
 
 News
 ======
-* I've been named as the [3MT winner](https://gradschool.umd.edu/funding/student-fellowships-awards/umd-three-minute-thesis-competition) in the 2020 Three-Minute Thesis **Campus-Level** Video Competition in University of Maryland, College Park.
+* I've been named as the [3MT winner](https://gradschool.umd.edu/funding/student-fellowships-awards/umd-three-minute-thesis-competition) in the 2020 Three-Minute Thesis **Campus-Level** Video Competition in University of Maryland, College Park. Here is my presentation [video](https://youtu.be/F8fYKDbBZ5Q).
 
 * Our paper [“Cross-domain Joint Dictionary Learning for ECG Reconstruction from PPG”](https://ieeexplore.ieee.org/document/9054242) with Qiang Zhu, Yuenan Li and Min Wu is accepted and selected as a **lecture** [presentation](https://youtu.be/3K5BkITTU-c) by International Conference on Acoustics, Speech, and Signal Processing (ICASSP'2020). You can also find the slides [here](https://sigport.org/documents/cross-domain-joint-dictionary-learning-ecg-reconstruction-ppg).
 
