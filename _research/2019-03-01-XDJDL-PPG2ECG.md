@@ -19,8 +19,6 @@ For technical details, please find [our paper](https://ieeexplore.ieee.org/docum
 
 {% include youtubePlayer.html id="F8fYKDbBZ5Q" %}
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/F8fYKDbBZ5Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="280" height="158" src="https://www.youtube.com/embed/3K5BkITTU-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include youtubePlayer.html id="3K5BkITTU-c" %}
 
 
