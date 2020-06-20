@@ -9,13 +9,13 @@ An emerging research direction considers the inverse problem of inferring electr
 
 ## Related links
 
-### A Three-Minute engaging introduction
-Please see the [Three-Minute Thesis Speech](https://youtu.be/F8fYKDbBZ5Q) for the motivation of our work.
+### 1. A Three-Minute engaging introduction
+- Please see the [Three-Minute Thesis Speech](https://youtu.be/F8fYKDbBZ5Q) for the motivation of our work.
 
-### Technical paper and conference talk
-For further technical explanation of the framework and results, please find the following [ICASSP conference talk](https://youtu.be/3K5BkITTU-c). You can also find the ICASSP presentation slides [here](https://sigport.org/documents/cross-domain-joint-dictionary-learning-ecg-reconstruction-ppg).
+### 2. Technical paper and conference talk
+- For further technical explanation of the framework and results, please find the following [ICASSP conference talk](https://youtu.be/3K5BkITTU-c). You can also find the ICASSP presentation slides [here](https://sigport.org/documents/cross-domain-joint-dictionary-learning-ecg-reconstruction-ppg).
 
-For technical details, please find [our paper](https://ieeexplore.ieee.org/document/9054242). 
+- For technical details, please find [our paper](https://ieeexplore.ieee.org/document/9054242). 
 
 #### A Three-Minute engaging introduction
 {% include youtubePlayer.html id="F8fYKDbBZ5Q" %}
