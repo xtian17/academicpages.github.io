@@ -17,7 +17,7 @@ author_profile: true
 ## Conference
 1. Q. Zhu, **X. Tian**, C-W. Wong, and M. Wu: "ECG Reconstruction via PPG: A Pilot Study," IEEE International Conf. on Biomedical and Health Informatics (BHI'19), Chicago, IL, May 2019. [43/394=10.9% acceptance rate for oral-presentation of regular paper] [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8834612) [[arXiv]](https://arxiv.org/abs/1904.10481) [[Slides]](https://sigport.org/documents/ecg-reconstruction-ppg-pilot-study)
 
-2. **X. Tian**, Q. Zhu, Y. Li, and M. Wu, "Cross-domain Joint Dictionary Learning fro ECG Reconstruction From PPG", **accepted** by International Conference on Acoustics, Speech, and Signal Processing (ICASSP). [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9054242) [[Slides]](https://sigport.org/documents/cross-domain-joint-dictionary-learning-ecg-reconstruction-ppg) [[Video Presentation]](https://youtu.be/3K5BkITTU-c).
+2. **X. Tian**, Q. Zhu, Y. Li, and M. Wu, "Cross-domain Joint Dictionary Learning fro ECG Reconstruction From PPG", IEEE International Conf. on Acoustics, Speech, and Signal Processing (ICASSP20), Barcelona, Spain, May 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9054242) [[Slides]](https://sigport.org/documents/cross-domain-joint-dictionary-learning-ecg-reconstruction-ppg) [[Video Presentation]](https://youtu.be/3K5BkITTU-c).
 
 ## Patents
 1. Q. Zhu, **X. Tian**, C-W. Wong, and M. Wu: "Reconstruction of ECG from PPG Signals for Continuous Monitoring and Analytics," provisional patent filing March 2019. 
