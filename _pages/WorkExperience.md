@@ -5,7 +5,9 @@ permalink: /workexperience/
 author_profile: true
 ---
 
-<img src="http://xtian17.github.io/images/Hustseals.png" width="350">
+<img src="http://xtian17.github.io/images/fblogo.png" width="350">
 
-* B.S. in Optoelectronic Information Science and Engineering, Huazhong University of Science and Technology, 2017
-* GPA: 91.3/100, marjor GPA: 93.3/100 Rank: 12/348
+# PhD Software Engineer Intern, Machine Learning 
+# June - August 2020
+* Applied machine learning techniques and best practice to video recommendation system to improve the video consumption time.
+* Assisted in the industrial-level data pipeline generation and query in Presto and Hive.
