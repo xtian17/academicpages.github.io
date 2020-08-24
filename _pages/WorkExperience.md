@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Work Experience"
+title: "Intern Experience"
 permalink: /workexperience/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 <img src="http://xtian17.github.io/images/Hustseals.png" width="350">
