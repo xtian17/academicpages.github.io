@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Intern Experience"
+title: "Work Experience"
 permalink: /workexperience/
 author_profile: true
 ---
 
-<img src="http://xtian17.github.io/images/fblogo.png" width="350">
+<img src="http://xtian17.github.io/images/fblogo.jpg" width="350">
 
 ## Facebook, Inc.
 
