@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is my full [CV](https://xtian17.github.io/files/CV_Xin_Tian.pdf)
+Here is my full [CV](https://xtian17.github.io/files/CV_XinTian.pdf)
 
 ---
 
