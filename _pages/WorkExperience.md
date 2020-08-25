@@ -11,5 +11,6 @@ author_profile: true
 
 ### PhD Software Engineer Intern, Machine Learning 
 ### June - August 2020
-* Applied machine learning techniques and best practice to video recommendation system to improve the video consumption time.
-* Assisted in the industrial-level data pipeline generation and query in Presto and Hive.
+- Applied advanced machine learning techniques to Facebook video recommendation system to improve the video consumption time.
+- Improved Facebook Live recommendation algorithms to increase Facebook Live consumption time.
+- Worked on the industrial-level data pipeline in Presto and Hive.
